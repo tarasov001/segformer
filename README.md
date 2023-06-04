@@ -9,7 +9,7 @@ Docker
 Clone the repository:
 ```bash
 $ git clone https://github.com/tarasov001/segformer
-$ cd segformer_unn
+$ cd segformer
 ```
 
 Build and run docker:
